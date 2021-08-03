@@ -7,7 +7,7 @@ from PIL import Image
 #SET THE NUMBER OF IMAGES
 numImages = 3
 
-#OPEN THE IMAGE FILES
+#OPEN THE IMAGE FILESj
 im1 = Image.open('brown.jpg') 
 im2 = Image.open('lab.jpg')
 im3 = Image.open('white.jpg')
